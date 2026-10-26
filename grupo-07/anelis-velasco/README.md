@@ -1,3 +1,13 @@
+Bitácora de Proceso - Solemne 2
+¿Qué hice en el sitio?
+Me encargué de hacer la estructura html de body y ajustar algunos códigos en la parte de CSS, además de investigar cómo se hace el carrusel para la parte de cambiando vidas.
+
+¿Qué dificultades tuve y cómo las resolví?
+No sabía cómo hacer el carrusel investigué cómo y la IA me ayudó, se me dificultó un poco el ajustar el tamaño de las imágenes pero viédo tutoriales lo logre. 
+
+
+Damos una segunda oportunidad a quienes más lo necesitan
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -185,6 +195,8 @@
     </div>
   </section>
 
+USO DE IA 
+
   <!-- HISTORIAS FELICES -->
   <section class="seccion-historias">
     <h2>HISTORIAS FELICES</h2>
@@ -241,7 +253,7 @@
 
     </div>
   </section>
-
+ 
   <!-- FOOTER -->
   <footer>
     <div class="logo-footer">
