@@ -3,8 +3,7 @@
 ## Enlace Figma 
 https://www.figma.com/design/lh6LE3qmr4NZFCFl5NB690/Anelis_Velasco?node-id=12-164&p=f&t=zjWYub2s9ykHx5xu-0
 ## Enlace página 
-ane888.github.io/mi-portafolio/
-
+https://ane888.github.io/mi-portafolio/
 ## Avance 1 (9 de noviembre)
 
 La idea para mi portafolio es que sea una página web con **más cosas visuales que para leer**; quiero que se noten mis trabajos y que sea fácil de explorar.
